@@ -13,3 +13,7 @@ Assignment 1 : Unit tests for class Dog and Person
 #### Run the Java Application
     Open the Main class.
     Click the green Run button (▶) next to the main method.
+
+#### Run the Unit Tests
+    Open the DogInfoTest class.
+    Click the green Run button (▶) next to the DogInfoTest method.
